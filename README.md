@@ -2,17 +2,17 @@
     <img src="https://user-images.githubusercontent.com/29977168/28116277-c23a7cce-6708-11e7-927c-5a6bd911da85.png">
 </p>
 
-#REGLEMENT DU CONCOURS
+# REGLEMENT DU CONCOURS
 
-##Concours « Hotelf1 Road Bands »
+## Concours « Hotelf1 Road Bands »
 
-###Article I : Organisation
+###  Article I : Organisation
 
 La société ACCOR, Société Anonyme au capital de 866 355 999 euros, dont le siège social est situé 82, rue Henri Farman – 92130 Issy-les-Moulineaux, immatriculée au registre du commerce et des sociétés de Nanterre sous le numéro 602 036 444, ayant notamment comme enseigne HOTEL F1 (ci-après, la « Société Organisatrice »), organise en France métropolitaine (Corse comprise), du 17/07/2017 à 00h01 au 03/09/2017 à 23h59 inclus, un concours, intitulé « hotelF1 Road Bands » (ci-après, le « Concours ») imaginé par la société Havas Productions (ci-après « la Société de Production »), accessible exclusivement via la plateforme Github à l’adresse suivante : http://github.com/roadbands/gamejam
 
 Les jours et heures indiqués dans le présent règlement sont ceux du fuseau horaire (UTC +01:00) Bruxelles, Copenhague, Madrid, Paris. Aucun autre fuseau horaire ne sera pris en compte pour la participation au Concours.
 
-###Article II : Les participants
+###  Article II : Les participants
 
 Ce Concours est ouvert à :
 
@@ -24,7 +24,7 @@ La personne physique ou le groupe de personnes physiques étant ci-après dénom
 
 Sont exclus de toute participation au Concours les membres du personnel de toutes les sociétés du groupe ACCOR, ainsi que les membres de leur famille proche (notamment conjoint, parents, frères, sœurs et enfants ou tout autre personne résidant dans le foyer familial), toute personne ayant participé à quelque titre que ce soit à l’élaboration du Concours, ainsi que les membres de leur famille proche (notamment conjoint, parents, frères et sœurs, enfants ou tout autre personne résidant dans le foyer familial). 
 
-###Article III : Déroulement du Concours
+###  Article III : Déroulement du Concours
 La participation au Concours n’est soumise à aucune obligation d’achat et/ou consommation de séjour dans un hôtel de la Société Organisatrice.
 
 Le Concours est organisé dans le cadre de la poursuite / suite d’un jeu vidéo préexistant en pixel art, composé de 2 (deux) niveaux, incluant chacun 2 (deux) niveaux spéciaux, dans lequel s’affrontent deux groupes de musique appelés « Slapp Machine » et « Zackhøuz » (ci-après dénommé « le Jeu Vidéo ») qui a été créé pour la marque hotelF1 et qui sera disponible à compter du mois d’octobre 2017 sur le réseau Internet et sur une application dédiée pour smartphone. Il est proposé au Participant de créer le troisième niveau (ci-après dénommé « le Troisième Niveau ») afin de poursuivre et finaliser le Jeu Vidéo.
@@ -50,7 +50,7 @@ Le Concours se déroule sur la plateforme GITHUB de la manière suivante :
 
 Le Concours n’est ni associé, ni sponsorisé par GITHUB.
 
-###Article IV : Modalités de participation et d’inscription au Concours
+### Article IV : Modalités de participation et d’inscription au Concours
 
 Le Participant devra prendre connaissance du présent règlement incluant la charte qui y est annexée et suivre les instructions pour valider sa participation. 
 
@@ -78,7 +78,7 @@ Le Troisième Niveau devra également respecter les contraintes techniques déta
 
 La Société Organisatrice informe de l'existence d'un modérateur et d’un correcteur qui filtrera le cas échéant les contenus publiés dans les conditions décrites au présent règlement et pourra à sa discrétion soit rejeter soit corriger le cas échéant les éventuelles fautes et/ou éléments non conformes au présent règlement ou à la réglementation notamment réglementation en matière de contenu publicitaire.
 
-###Article V : Garanties et responsabilité du contenu soumis dans le cadre du Concours
+### Article V : Garanties et responsabilité du contenu soumis dans le cadre du Concours
 
 En prenant part à ce Concours, le Participant garantit : 
 
@@ -106,7 +106,7 @@ Seront aussi exclus du Concours les Troisièmes Niveaux qui proposent un contenu
 
 La Société Organisatrice se réserve le droit de demander des justificatifs pour chacune des déclarations du Participant.
 
-###Article VI : Cas de nullité
+### Article VI : Cas de nullité
 
 La participation au Concours implique l'acceptation, sans réserve ni restriction, du présent règlement dans son intégralité, des règles de déontologie en vigueur sur Internet, ainsi que des lois et règlements applicables aux jeux gratuits et loteries publicitaires. Le non-respect de ces conditions par le Participant entraînera la nullité de sa participation et éventuellement l’engagement de sa responsabilité.
 
@@ -130,13 +130,13 @@ En cas d’exclusion d’un Participant, celui-ci se trouvera déchu de l’ense
 
 Par ailleurs, la Société Organisatrice se réserve, le cas échéant, le droit d’engager des poursuites judiciaires à l’encontre de tout Participant contrevenant à une ou plusieurs dispositions du présent règlement. 
 
-###Article VII : Convention de preuve
+### Article VII : Convention de preuve
 
 Il est convenu que les données contenues dans les systèmes d’information de la Société Organisatrice ont force probante quant aux éléments de connexion et aux informations résultant d’un traitement informatique relatif au Concours organisé par la Société Organisatrice.
 
 La Société Organisatrice tranchera toute question relative à l’application du présent règlement ou toute question qui viendrait à se poser et non réglée par celle-ci.
 
-###Article VIII : Désignation des gagnants
+### Article VIII : Désignation des gagnants
 
 A l’issue du Concours, dans un délai de 15 (quinze) jours, un jury composé d’un(e) représentant(e) de la Société Organisatrice, de 2 (deux) créatifs de la Société de Production ainsi que d’un(e) représentant(e) de la société XXII IO, prestataire de la Société de Production, se réunira et désignera les gagnants (ci-après le ou les « Gagnant(s) ») parmi tous les Participants qui auront respecté les modalités de participation visées aux articles II, III et IV ci-dessus.
 
@@ -148,7 +148,7 @@ Les Gagnants seront informés de leur gain dans les 4 (quatre) semaines suivants
 
 Les Participants non retenus n’en seront pas informés. 
 
-###Article IX : Descriptif de la dotation
+### Article IX : Descriptif de la dotation
 
 Les Gagnants verront leur Jeu Vidéo intégré dans le cadre du Jeu Vidéo Collaboratif et dans le cadre du Programme et exploité sur tous supports notamment le réseaux Internet, notamment sur un site dédié. Cette exploitation sera accompagnée d’une rémunération forfaitaire de 100 (cent) Euros hors taxes, sous déduction des prélèvements sociaux du Régime de Sécurité Sociale des Auteurs et fiscaux (CSG, CRDS). Il est précisé que dans le cas où le Gagnant serait constitué d’un groupe de personne, représenté par un Chef d’équipe, chacun des membres du groupe de personne recevra la rémunération de 100 (cent) Euros hors taxes.
 
@@ -168,7 +168,7 @@ Les lots ne pourront faire l'objet d’aucune contestation d’aucune sorte de l
 
 Un (1) seul lot par Participant (même nom, même prénom, même adresse) pourra être délivré par la Société Organisatrice pendant toute la durée du Concours.
 
-###Article X : Modalités de remise et d’utilisation des lots
+### Article X : Modalités de remise et d’utilisation des lots
 
 Les potentiels Gagnants seront prévenus via courrier électronique et devront prendre contact avec la Société Organisatrice aux coordonnées qui lui seront transmis dans le message. 
 
@@ -196,13 +196,13 @@ La Société Organisatrice ne pourra être tenue pour responsable en cas de mauv
 
 Toutes les dotations qui seraient retournées à la Société Organisatrice du Concours par la Poste ou par le prestataire en charge du transport, comme colis non remis pour quelque raison que ce soit (notamment colis refusé, n'habite plus à l'adresse indiquée) seront considérées comme perdues pour les Gagnants. La responsabilité de la Société Organisatrice ne pourra donc être engagée sur ce fait. Les dotations ne seront pas remises en jeu.
 
-###Article XI : Respect des conditions de participation
+### Article XI : Respect des conditions de participation
 
 La participation au Concours implique l'acceptation sans réserve du présent règlement dans son intégralité. Le non-respect des conditions de participation énoncées dans le présent règlement et, de manière générale, toute déclaration inexacte ou mensongère, toute fraude entraînera la disqualification du Participant. Il ne sera répondu à aucune demande téléphonique ou écrite concernant l'interprétation ou l'application du présent règlement, les mécanismes ou les modalités du Concours ainsi que le nom des Gagnants.
 
 La Société Organisatrice se réserve le droit de modifier les articles du présent règlement et notamment les règles du Concours et les gains attribués, essentiellement pour tenir compte de l’évolution des dispositions légales, réglementaires ou administratives et des décisions judiciaires. Chaque modification fera l’objet d’un avenant au règlement et sera déposée auprès de l’huissier susvisé comme le présent règlement. Cet avenant sera communiqué conjointement au règlement à toute personne ayant fait la demande dudit règlement. Il ne sera répondu à aucune demande téléphonique ou écrite concernant l'interprétation ou l'application du présent règlement, les mécanismes ou les modalités du Concours ainsi que sur la désignation du Gagnant.
 
-###Article XII : Propriété intellectuelle
+### Article XII : Propriété intellectuelle
 
 Toutes les dénominations ou marques citées au présent règlement ou sur la Page, de même que sur tout support de communication relatif au Concours, demeurent la propriété exclusive de leur auteur ou de leur déposant.
 
@@ -218,7 +218,7 @@ Chaque Participant déclare être exclusivement responsable du respect des oblig
 
 Chaque Participant garantit qu'il respecte l'ensemble des dispositions et obligations des contrats de licence des environnements de développement qu'il utilise le cas échéant.
 
-###Article XIII : Responsabilités de la Société Organisatrice
+### Article XIII : Responsabilités de la Société Organisatrice
 
 Il est expressément rappelé qu’Internet n’est pas un réseau sécurisé. A cet égard, la participation au Concours implique la connaissance et l’acceptation, par tout Participant, des caractéristiques et des limites d’Internet, notamment en ce qui concerne les performances techniques, les temps de réponse pour consulter, interroger ou transférer des informations, les risques d’interruption, et plus généralement, les risques inhérents à toute connexion et transmission sur Internet, l’absence de protection de certaines données contre des détournements éventuels et les risques de contamination par des éventuels virus sur le réseau Internet.
 
@@ -268,13 +268,13 @@ Le Concours étant accessible depuis la plateforme Github, chaque Participant de
 
 D’une façon générale, la Société Organisatrice pourra annuler tout ou partie du Concours s’il apparaît que des fraudes sont intervenues sous quelle que forme que ce soit, notamment de manière informatique dans le cadre de la participation au Concours ou de la détermination des Gagnants. Elle se réserve, dans cette hypothèse, le droit de ne pas attribuer la dotation à un fraudeur et/ou de poursuivre devant les juridictions compétentes les auteurs de ces fraudes. Elle ne saurait toutefois encourir aucune responsabilité d’aucune sorte vis-à-vis des Participants du fait de fraudes éventuellement commises.
 
-###Article XIV : Force majeure
+### Article XIV : Force majeure
 
 La responsabilité de la Société Organisatrice ne saurait être encourue, d’une façon générale, en cas de force majeure ou cas fortuit indépendant de sa volonté (notamment problèmes techniques…) perturbant l’organisation et la gestion du Concours, de telle sorte que celui-ci serait écourté, prorogé, reporté, modifié ou annulé.
 
 Au sens du présent règlement, la force majeure s’entend de tout événement imprévu, insurmontable et indépendant de la volonté d’une personne susceptible de la dégager de sa responsabilité ou de la délier de ses engagements, selon la jurisprudence de la Cour de Cassation.
 
-###Article XV : Autorisation d’exploitation – Attributs de la personnalité 
+### Article XV : Autorisation d’exploitation – Attributs de la personnalité 
 
 Du seul fait de sa participation au Concours, chacun des Gagnants autorise l’intégration du Troisième Niveau dans le Jeu Vidéo, l’exploitation de son Troisième Niveau en tout ou partie et de ses nom, prénom(s) et/ou pseudonyme(s), ainsi que, le cas échéant, tous autres attributs de sa personnalité, pour une durée de 3 (trois) ans à compter de la première exploitation publique du Programme dans lequel s’inscrit le Jeu Vidéo Collaboratif, par tous procédés, en tous formats, dans le monde entier et sur tous supports (notamment sur Internet en version téléchargeable ou non, et sur des applications Smartphones), pour être crédité au sein du Programme, le cas échéant si la Société Organisatrice le souhaite, et pour les besoins de la communication relative au Concours et au Programme exclusivement, dans le cadre de la communication interne et/ou institutionnelle de la Société Organisatrice, de la Société de Production, pour leurs relations publiques et pour l’information journalistique de la presse écrite, numérique et audiovisuelle. Les Gagnants s’engagent à signer une autorisation en ce sens au moment de leur désignation en tant que Gagnant si la Société Organisatrice en fait la demande, pour pouvoir bénéficier de leur dotation. 
 
@@ -284,7 +284,7 @@ Les Gagnants s’engagent à ne pas gêner de quelque façon que ce soit l’exp
 
 La présente autorisation ne confère aucun droit et/ou autorisation au profit des Participants sur les droits et/ou signes distinctifs (notamment les marques) appartenant à la Société Organisatrice, de son client ou de leurs ayants droit. Les Gagnants et les Participants ne pourront pas exploiter le Troisième Niveau en tout ou partie en dehors du Concours.
 
-###Article XVI : Informatique et Libertés
+### Article XVI : Informatique et Libertés
 
 Les données personnelles des Participants sont traitées dans le respect de la loi informatique et libertés n°78-17 du 6 Janvier 1978 modifiée. Les informations nominatives communiquées par les Participants sont nécessaires à la gestion de leur participation au Concours et sont réservées à la société Organisatrice, ses partenaires et sous-traitants. Elles ne seront utilisées à d’autres fins que la participation au Concours ni cédées à des tiers, sauf à obtenir une autorisation préalable des Participants à cette fin.
 
@@ -294,7 +294,7 @@ Conformément à la loi du 06/01/1978, les Participants disposent d'un droit d'a
 
 La société Organisatrice s'engage à l'égard des personnes concernées à prendre toutes précautions utiles afin de préserver la sécurité des informations et notamment d'empêcher qu'elles ne soient communiquées à des tiers non autorisés.
 
-###Article XVII : Acceptation et dépôt de règlement
+### Article XVII : Acceptation et dépôt de règlement
 
 La participation au Concours implique l’acceptation entière et sans réserve du présent règlement complet ainsi qu’aux règles de déontologie, lois et règlements applicables aux jeux et loteries publicitaires.
 
@@ -314,7 +314,7 @@ Le remboursement sera effectué par virement bancaire pour une valeur équivalen
 
 En cas de prolongation ou de report éventuel du Concours, la date limite d’envoi des demandes d’obtention du règlement et de remboursement des frais d’affranchissement y afférents sera reportée d’autant.
 
-###Article XVIII : Règlement des litiges, loi applicable et attribution des compétences
+### Article XVIII : Règlement des litiges, loi applicable et attribution des compétences
 
 Si une ou plusieurs stipulations du présent règlement étaient déclarées nulles et/ou non applicables, les autres clauses garderaient toute leur force et leur portée.
 
@@ -323,7 +323,7 @@ Les Participants admettent sans réserve que le simple fait de participer au Con
 Tout différend né à l’occasion du Concours fera l’objet d’une tentative de règlement à l’amiable entre la Société Organisatrice et le Participant. Aucune contestation ne sera plus recevable deux (2) mois après la clôture du Concours par la Société Organisatrice. A défaut d’accord, le litige sera soumis aux juridictions compétentes conformément aux dispositions du Code de Procédure Civile. 
 
 
-####ANNEXE : Charte
+#### ANNEXE : Charte
 
 Le projet est composé de différents éléments. Tout est regroupé dans le dossier « Asset ». 
 
