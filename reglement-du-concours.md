@@ -1,8 +1,8 @@
-#REGLEMENT DU CONCOURS
+# REGLEMENT DU CONCOURS
 
-##Concours « hotelf1 Road Bands »
+## Concours « hotelf1 Road Bands »
 
-###Article I : Organisation
+### Article I : Organisation
 
 La société ACCOR, Société Anonyme au capital de 866 355 999 euros, dont le siège social est situé 82, rue Henri Farman – 92130 Issy-les-Moulineaux, immatriculée au registre du commerce et des
 sociétés de Nanterre sous le numéro 602 036 444, ayant notamment comme enseigne HOTEL F1 (ciaprès,
@@ -16,7 +16,7 @@ Les jours et heures indiqués dans le présent règlement sont ceux du fuseau ho
 Bruxelles, Copenhague, Madrid, Paris. Aucun autre fuseau horaire ne sera pris en compte pour la
 participation au Concours.
 
-###Article II : Les participants
+### Article II : Les participants
 
 Ce Concours est ouvert à :
 
@@ -45,7 +45,7 @@ soeurs et enfants ou tout autre personne résidant dans le foyer familial), tout
 (notamment conjoint, parents, frères et soeurs, enfants ou tout autre personne résidant dans le foyer
 familial).
 
-###Article III : Déroulement du Concours
+### Article III : Déroulement du Concours
 
 La participation au Concours n’est soumise à aucune obligation d’achat et/ou consommation de séjour
 dans un hôtel de la Société Organisatrice.
@@ -92,7 +92,7 @@ les critères définis à l’article VIII les Participants gagnants ;
 
 Le Concours n’est ni associé, ni sponsorisé par GITHUB.
 
-###Article IV : Modalités de participation et d’inscription au Concours
+### Article IV : Modalités de participation et d’inscription au Concours
 
 Le Participant devra prendre connaissance du présent règlement incluant la charte qui y est annexée
 et suivre les instructions pour valider sa participation.
@@ -146,7 +146,7 @@ La Société Organisatrice informe de l'existence d'un modérateur et d’un cor
 soit rejeter soit corriger le cas échéant les éventuelles fautes et/ou éléments non conformes au présent
 règlement ou à la réglementation notamment réglementation en matière de contenu publicitaire.
 
-###Article V : Garanties et responsabilité du contenu soumis dans le cadre du Concours
+### Article V : Garanties et responsabilité du contenu soumis dans le cadre du Concours
 
 En prenant part à ce Concours, le Participant garantit :
 
@@ -188,7 +188,7 @@ ou qui porte plus largement atteinte à la dignité humaine ou animale.
 La Société Organisatrice se réserve le droit de demander des justificatifs pour chacune des déclarations
 du Participant.
 
-###Article VI : Cas de nullité
+### Article VI : Cas de nullité
 
 La participation au Concours implique l'acceptation, sans réserve ni restriction, du présent règlement
 dans son intégralité, des règles de déontologie en vigueur sur Internet, ainsi que des lois et règlements
@@ -230,7 +230,7 @@ Par ailleurs, la Société Organisatrice se réserve, le cas échéant, le droit
 judiciaires à l’encontre de tout Participant contrevenant à une ou plusieurs dispositions du présent
 règlement.
 
-###Article VII : Convention de preuve
+### Article VII : Convention de preuve
 
 Il est convenu que les données contenues dans les systèmes d’information de la Société Organisatrice
 ont force probante quant aux éléments de connexion et aux informations résultant d’un traitement
@@ -239,7 +239,7 @@ informatique relatif au Concours organisé par la Société Organisatrice.
 La Société Organisatrice tranchera toute question relative à l’application du présent règlement ou toute
 question qui viendrait à se poser et non réglée par celle-ci.
 
-###Article VIII : Désignation des gagnants
+### Article VIII : Désignation des gagnants
 
 A l’issue du Concours, dans un délai de 15 (quinze) jours, un jury composé d’un(e) représentant(e) de
 la Société Organisatrice, de 2 (deux) créatifs de la Société de Production ainsi que d’un(e)
@@ -267,7 +267,7 @@ Gagnants sera effectuée dans les plus brefs délais.
 
 Les Participants non retenus n’en seront pas informés.
 
-###Article IX : Descriptif de la dotation
+### Article IX : Descriptif de la dotation
 
 Les Gagnants verront leur Jeu Vidéo intégré dans le cadre du Jeu Vidéo Collaboratif et dans le cadre
 du Programme et exploité sur tous supports notamment le réseau Internet (y compris sur un site dédié
@@ -305,7 +305,7 @@ valeur équivalente.
 Un (1) seul lot par Participant (même nom, même prénom, même adresse) pourra être délivré par la
 Société Organisatrice pendant toute la durée du Concours.
 
-###Article X : Modalités de remise et d’utilisation des lots
+### Article X : Modalités de remise et d’utilisation des lots
 
 Les potentiels Gagnants seront prévenus via courrier électronique à l’adresse renseignée dans le
 formulaire de participation dans les 4 (quatre) semaine suivant la fin du Concours et devront prendre
@@ -361,7 +361,7 @@ le prestataire en charge du transport, comme colis non remis pour quelque raison
 les Gagnants. La responsabilité de la Société Organisatrice ne pourra donc être engagée sur ce fait.
 Les dotations ne seront pas remises en jeu.
 
-###Article XI : Respect des conditions de participation
+### Article XI : Respect des conditions de participation
 
 La participation au Concours implique l'acceptation sans réserve du présent règlement dans son
 intégralité. Le non-respect des conditions de participation énoncées dans le présent règlement et, de
@@ -382,7 +382,7 @@ ainsi que sur la désignation du Gagnant.
 Toute difficulté relative à l’application ou l’interprétation du présent règlement sera tranchée par la
 Société Organisatrice.
 
-###Article XII : Propriété intellectuelle
+### Article XII : Propriété intellectuelle
 
 Pour bénéficier de son lot, chaque Gagnant s’engage à signer un accord avec la Société Organisatrice
 pour la cession des droits sur ses créations (par créations réalisées au titre du présent règlement de
@@ -530,7 +530,7 @@ droits afférents aux Créations.
 Chaque Participant garantit qu'il respecte l'ensemble des dispositions et obligations des contrats de
 licence des environnements de développement qu'il utilise le cas échéant.
 
-###Article XIII : Responsabilités de la Société Organisatrice
+### Article XIII : Responsabilités de la Société Organisatrice
 
 Il est expressément rappelé qu’Internet n’est pas un réseau sécurisé. A cet égard, la participation au
 Concours implique la connaissance et l’acceptation, par tout Participant, des caractéristiques et des
@@ -632,7 +632,7 @@ poursuivre devant les juridictions compétentes les auteurs de ces fraudes. Elle
 encourir aucune responsabilité d’aucune sorte vis-à-vis des Participants du fait de fraudes
 éventuellement commises.
 
-###Article XIV : Force majeure
+### Article XIV : Force majeure
 
 La responsabilité de la Société Organisatrice ne saurait être encourue, d’une façon générale, en cas de
 force majeure ou cas fortuit indépendant de sa volonté (notamment problèmes techniques…) perturbant
@@ -643,7 +643,7 @@ Au sens du présent règlement, la force majeure s’entend de tout événement 
 indépendant de la volonté d’une personne susceptible de la dégager de sa responsabilité ou de la délier
 de ses engagements, selon la jurisprudence de la Cour de Cassation.
 
-###Article XV : Autorisation d’exploitation – Attributs de la personnalité
+### Article XV : Autorisation d’exploitation – Attributs de la personnalité
 
 Du seul fait de sa participation au Concours, chacun des Gagnants autorise l’intégration du Troisième
 Niveau créé dans le Jeu Vidéo, l’exploitation de son Troisième Niveau en tout ou partie et de ses nom,
@@ -671,7 +671,7 @@ et/ou signes distinctifs (notamment les marques) appartenant à la Société Org
 ou de leurs ayants droit. Les Gagnants et les Participants ne pourront pas exploiter le Troisième Niveau
 en tout ou partie en dehors du Concours.
 
-###Article XVI : Informatique et Libertés
+### Article XVI : Informatique et Libertés
 
 Les données personnelles des Participants sont traitées dans le respect de la loi informatique et libertés
 n°78-17 du 6 Janvier 1978 modifiée. Les informations nominatives communiquées par les Participants
@@ -693,7 +693,7 @@ La société Organisatrice s'engage à l'égard des personnes concernées à pre
 utiles afin de préserver la sécurité des informations et notamment d'empêcher qu'elles ne soient
 communiquées à des tiers non autorisés.
 
-###Article XVII : Acceptation et dépôt de règlement
+### Article XVII : Acceptation et dépôt de règlement
 
 La participation au Concours implique l’acceptation entière et sans réserve du présent règlement
 complet ainsi qu’aux règles de déontologie, lois et règlements applicables aux jeux et loteries
@@ -730,7 +730,7 @@ En cas de prolongation ou de report éventuel du Concours, la date limite d’en
 d’obtention du règlement et de remboursement des frais d’affranchissement y afférents sera reportée
 d’autant.
 
-###Article XVIII : Règlement des litiges, loi applicable et attribution des compétences
+### Article XVIII : Règlement des litiges, loi applicable et attribution des compétences
 
 Toute question ou réclamation doit être formulée auprès de la Société Organisatrice par écrit, avec
 mention des nom(s), prénom(s) et coordonnées personnelles, à l’adresse suivante :
