@@ -11,7 +11,7 @@
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk
 " target="_blank"><img src="http://img.youtube.com/vi/35mA3UNQ-yk/0.jpg" 
-alt="Video Roadbands" width="240" height="180" border="10" /></a>
+alt="Video Roadbands"/></a>
 
 </p>
 
