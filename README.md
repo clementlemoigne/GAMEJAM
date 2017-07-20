@@ -8,11 +8,7 @@
 
 
 <p align="center">
-
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk
-" target="_blank"><img src="http://img.youtube.com/vi/35mA3UNQ-yk/0.jpg" 
-alt="Video Roadbands"/></a>
-
+    <a href="http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk" target="_blank"><img src="http://img.youtube.com/vi/35mA3UNQ-yk/0.jpg" alt="Video Roadbands"/></a>
 </p>
 
 **Vidéo de présentation : https://youtu.be/35mA3UNQ-yk**
