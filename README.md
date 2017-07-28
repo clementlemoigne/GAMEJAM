@@ -24,6 +24,9 @@
 
 **En effet, vous (développeurs, gamers, passionnés, étudiants) êtes invités à co-développer VOTRE niveau !**
 
+
+**Ce jeu a été développé sous Unity! Le logiciel numéro 1 dans le secteur du jeu!**
+
 <p align="center">
     <img src="https://user-images.githubusercontent.com/29977168/28377124-243f617a-6cac-11e7-9490-953189bc09aa.png">
 </p>
@@ -31,7 +34,7 @@
     <img src="https://user-images.githubusercontent.com/29977168/28377127-27d40336-6cac-11e7-95cd-4afbc0db308e.png">
 </p>
 
-**Laisser voguer votre imagination, faîtes-vous plaisir : vous pouvez tout changer, tout modifier (gameplay, scoring, scénario, etc.).**
+**Laissez voguer votre imagination, faîtes-vous plaisir : vous pouvez tout changer, tout modifier (gameplay, scoring, scénario, etc.).**
 
 **Participez à la game jam et tentez de gagner de nombreux lots : borne arcade, consoles Switch, Megadrive (e-concept) ou Atari (e-concept) !**
 
