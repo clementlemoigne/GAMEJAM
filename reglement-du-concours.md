@@ -7,7 +7,7 @@
 La société ACCOR, Société Anonyme au capital de 866 355 999 euros, dont le siège social est situé 82, rue Henri Farman – 92130 Issy-les-Moulineaux, immatriculée au registre du commerce et des
 sociétés de Nanterre sous le numéro 602 036 444, ayant notamment comme enseigne HOTEL F1 (ciaprès,
 la « Société Organisatrice »), organise en France métropolitaine (Corse comprise), du
-19/07/2017 à 20h00 au 03/09/2017 à 23h59 inclus, un concours, intitulé « hotelf1 Road Bands » (ciaprès,
+19/07/2017 à 20h00 au 01/10/2017 à 23h59 inclus, un concours, intitulé « hotelf1 Road Bands » (ciaprès,
 le « Concours ») imaginé par la société Havas Productions (ci-après « la Société de
 Production »), accessible exclusivement via la plateforme Github à l’adresse suivante :
 http://github.com/roadbands/gamejam
