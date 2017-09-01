@@ -6,6 +6,7 @@ public class DesactivateGameObject : MonoBehaviour {
 
     public GameObject myObject;
 
+
     public void DesactivateMyObject()
     {
         myObject.SetActive(false);

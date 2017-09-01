@@ -10,14 +10,14 @@ public class InputManagerInputField : MonoBehaviour {
     public InputField inputfield;
     public GetAndPushLeaderBoardJson LeaderBoardJson;
     public Text textNext;
-    public Button restartButton;
-    public Button gameJamButton;
-    public Button gitHubButton;
+	public Button restartButton;
+	public Button gameJamButton;
+	public Button gitHubButton;
     void Start()
     {
 #if UNITY_ANDROID || UNITY_IOS
 
-        textNext.text = "appui pour continuer";
+        textNext.text = "appuie pour continuer";
 
 #endif
 
@@ -34,10 +34,10 @@ public class InputManagerInputField : MonoBehaviour {
 
         if (Input.GetMouseButtonDown(0)|| Input.GetKeyDown(KeyCode.Space))
         {
+			restartButton.enabled = true;
+			gameJamButton.enabled = true;
+			gitHubButton.enabled = true;
             LeaderBoardJson.BeginTestConnection();
-            restartButton.enabled = true;
-            gameJamButton.enabled = true;
-            gitHubButton.enabled = true;
             animator.enabled = true;
 			Debug.Log("EndEnd");
 			GetComponent<InputManagerInputField> ().enabled = false;

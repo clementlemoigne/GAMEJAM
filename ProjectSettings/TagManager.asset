@@ -35,6 +35,8 @@ TagManager:
   - endAnim
   - barriere
   - assetToActivate
+  - barbedorSandwich
+  - mamie
   layers:
   - Default
   - TransparentFX
@@ -51,7 +53,7 @@ TagManager:
   - Magasin
   - PNJ
   - ProjectilePnj
-  - 
+  - Road
   - 
   - 
   - 

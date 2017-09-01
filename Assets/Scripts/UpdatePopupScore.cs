@@ -4,9 +4,9 @@ using UnityEngine;
 
 public class UpdatePopupScore : MonoBehaviour {
 
-    public LerpScore scoreLvl;
-    public LerpScore bonusEnd;
-    public LerpScore bonusTime;
+    public LerpScore scoreNiv;
+    public LerpScore bonusFin;
+    public LerpScore bonusTemps;
     public LerpScore scoretotal;
 
     // Use this for initialization
@@ -24,13 +24,13 @@ public class UpdatePopupScore : MonoBehaviour {
         {
             if (Input.GetMouseButtonDown(0)|| Input.GetKeyDown(KeyCode.Space))
             {
-                scoreLvl.enabled = true;
-                bonusEnd.enabled = true;
-                bonusTime.enabled = true;
+                scoreNiv.enabled = true;
+                bonusFin.enabled = true;
+                bonusTemps.enabled = true;
                 scoretotal.enabled = true;
-                scoreLvl.currentScore = 0;
-                bonusEnd.currentScore = 0;
-                bonusTime.currentScore = 0;
+                scoreNiv.currentScore = 0;
+                bonusFin.currentScore = 0;
+                bonusTemps.currentScore = 0;
                 scoretotal.currentScore = scoretotal.targetNumber;
                 canUpdate = false;
             }

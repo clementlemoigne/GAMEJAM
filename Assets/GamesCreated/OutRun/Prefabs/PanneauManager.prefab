@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1796218449069342}
+  m_IsPrefabParent: 1
+--- !u!1 &1796218449069342
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 4882121016049564}
+  - component: {fileID: 114437729915774500}
+  - component: {fileID: 114045228731861856}
+  m_Layer: 0
+  m_Name: PanneauManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4882121016049564
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1796218449069342}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 7.5503597, y: 54.063828, z: -65.90041}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &114045228731861856
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1796218449069342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1ef33e7f894ed144396ab815d2585b67, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  tunnelManager: {fileID: 0}
+--- !u!114 &114437729915774500
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1796218449069342}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 058fe062a12ea62418a660811dc24d29, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  asset:
+  - {fileID: 1969318114503934, guid: 05201bee19577e14aa900eca2a3e2dfd, type: 2}
+  - {fileID: 1969318114503934, guid: bcfa41e68ae29754382952e3eb815bb3, type: 2}
+  bezierCurve: {fileID: 0}
+  currentSpeed: 0
+  roadDirection: {x: 0, y: 0}
+  timerPopAsset: 0
+  useRandomTimerPopAsset: 0
+  activatePopAsset: 0
+  targetTimer: 0.5
+  chanceToSpawnLeft: -1
+  directionFactor: 0
