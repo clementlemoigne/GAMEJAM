@@ -1,0 +1,538 @@
+fileFormatVersion: 2
+guid: 0dd7fe56126524c4983b22438515d676
+timeCreated: 1497615978
+licenseType: Pro
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: hellfest-cinematique-elements_0
+    21300002: hellfest-cinematique-elements_1
+    21300004: hellfest-cinematique-elements_2
+    21300006: hellfest-cinematique-elements_3
+    21300008: hellfest-cinematique-elements_4
+    21300010: hellfest-cinematique-elements_5
+    21300012: hellfest-cinematique-elements_6
+    21300014: hellfest-cinematique-elements_7
+    21300016: hellfest-cinematique-elements_8
+    21300018: hellfest-cinematique-elements_9
+    21300020: hellfest-cinematique-elements_10
+    21300022: hellfest-cinematique-elements_11
+    21300024: hellfest-cinematique-elements_12
+    21300026: hellfest-cinematique-elements_13
+    21300028: hellfest-cinematique-elements_14
+    21300030: hellfest-cinematique-elements_16
+    21300032: hellfest-cinematique-elements_17
+    21300034: hellfest-cinematique-elements_18
+    21300036: hellfest-cinematique-elements_19
+    21300038: hellfest-cinematique-elements_20
+    21300040: hellfest-cinematique-elements_21
+    21300042: hellfest-cinematique-elements_22
+    21300044: hellfest-cinematique-elements_25
+    21300046: hellfest-cinematique-elements_26
+    21300048: hellfest-cinematique-elements_27
+    21300050: hellfest-cinematique-elements_28
+    21300052: hellfest-cinematique-elements_29
+    21300054: hellfest-cinematique-elements_30
+    21300056: hellfest-cinematique-elements_31
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: iPhone
+    maxTextureSize: 1024
+    textureFormat: 33
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: tvOS
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Tizen
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Windows Store Apps
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Samsung TV
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_0
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1193
+        width: 413
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_1
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1193
+        width: 413
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_2
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 1193
+        width: 413
+        height: 338
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_3
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1172
+        width: 329
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_4
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 1172
+        width: 329
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_5
+      rect:
+        serializedVersion: 2
+        x: 2039
+        y: 1172
+        width: 329
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 839
+        width: 418
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 839
+        width: 419
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_8
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 845
+        width: 328
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_9
+      rect:
+        serializedVersion: 2
+        x: 1271
+        y: 845
+        width: 329
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_10
+      rect:
+        serializedVersion: 2
+        x: 1637
+        y: 845
+        width: 329
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 668
+        width: 95
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_12
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 668
+        width: 95
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_13
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 737
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_14
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 737
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_16
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 758
+        width: 60
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_17
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 758
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_18
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 762
+        width: 59
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_19
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 762
+        width: 53
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_20
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 722
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_21
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 722
+        width: 53
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_22
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 737
+        width: 28
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_25
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 729
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_26
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 374
+        width: 344
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_27
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 374
+        width: 344
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_28
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 374
+        width: 343
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_29
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 35
+        width: 329
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_30
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 35
+        width: 328
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: hellfest-cinematique-elements_31
+      rect:
+        serializedVersion: 2
+        x: 762
+        y: 93
+        width: 343
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
