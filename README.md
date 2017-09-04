@@ -4,8 +4,9 @@
 
 hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours plus loin dans l’univers de l’entertainment en proposant un jeu vidéo rétro (mobile et web) autour du road trip ! Dans Road Bands, vous devez aider un groupe de musique à retrouver leurs instruments et affronter leurs némésis. Mais attention, Road Bands n’est pas qu'un simple jeu vidéo, c’est un vrai projet collaboratif. Nous avons créé les 2 premiers niveaux, à vous de créer la suite !
 
-[![IMAGE ALT TEXT HERE](images/youtube.jpg)](http://www.youtube.com/watch?v=35mA3UNQ-yk)
-
+<p align="center">
+    <a target="_blank" href="http://www.youtube.com/watch?feature=player_embedded&v=35mA3UNQ-yk"><img src="images/youtube.jpg" alt="Video Road Bands"/></a>
+</p>
 
 ## Sommaire
 
@@ -74,7 +75,7 @@ Pour plus d'informations sur les détails juridiques du concours, vous pouvez co
     <img src="images/prix.gif">
 </p>
 
-À la fin de la Game Jam, tous vos niveaux seront testés par un jury qui en sélectionnera 8. Ces niveaux seront ensuite intégrés par nos équipes dans le jeu final, faisant de Road Bands un véritable jeu collaboratif ! Le jury devra décerner un prix à chacun des niveaux sélectionnés suivant son ordre de préférence.
+Le jury devra décerner un prix au gagnant.
 
 - **Premier prix** : une mini borne d’arcade Neo Legend d’une valeur indicative de 1500 € TTC
 - **Deuxième et troisième prix** : une console de jeu Nintendo Switch d’une valeur indicative de 329,99€
@@ -99,7 +100,7 @@ Absolument.
 Il n'y a pas de taille limite aux équipes, tous vos fans peuvent vous accompagner.
 
 ### À qui dois-je envoyer mon niveau une fois celui-ci fini ?
-Une fois terminé, faites une archive .zip de votre projet Unity et postez-la ici : http://www.roadbands/gamejam/formulaire.fr. 
+Une fois terminé, faites une archive .zip de votre projet Unity et postez-la ici : http://www.roadbands/gamejam/formulaire.fr (disponible le 08 septembre). 
 
 ### Puis-je créer plusieurs niveaux ?
 Oui, mais nous vous conseillons de privilégier la qualité à la quantité :-)
