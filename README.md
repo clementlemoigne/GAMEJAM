@@ -64,7 +64,7 @@ Afin de rester cohérent avec le reste du jeu, votre niveau devra :
 
 Un petit tutoriel en introduction est aussi plus que bienvenue ! ;-)
 
-Pour plus d'informations sur les détails juridiques du concours, vous pouvez consulter [le règlement complet ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/Règlement-de-concours.pdf).
+Pour plus d'informations sur les détails juridiques du concours, vous pouvez consulter [le règlement complet ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/reglement-de-concours.pdf).
 
 <a name="les-prix"></a>
 <p align="center">
