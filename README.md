@@ -53,9 +53,9 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
 
 Roadbands est un jeu collaboratif. Cela signifie que VOUS allez pouvoir créer les niveaux de vos rêves, et, s'ils sont sélectionnés, être récompensé(e) par de nombreux prix ! De plus, vos niveaux feront parti de la version finale du jeu disponible sur internet et smartphone.
 
-Pour commencer, nous vous conseillons fortement de lire [la page d'aide à la prise en main du projet Unity](https://github.com/ROADBANDS/GAMEJAM/blob/master/charte-de-co-creation.md) où vous trouverez toutes les réponses à vos questions techniques.
+Pour commencer, nous vous conseillons fortement de lire [la page d'aide à la prise en main du projet Unity](https://github.com/ROADBANDS/GAMEJAM/blob/master/Tuto.md) où vous trouverez toutes les réponses à vos questions techniques.
 
-Le niveau que vous allez créer devra être soumis avant le **dimanche 1er octobre 23h59** sur cette page : http://www.roadbands.com/gamejam
+Le niveau que vous allez créer devra être soumis avant le **dimanche 1er octobre 23h59** sur cette page : http://www.roadbands/gamejam/formulaire.fr
 
 Afin de rester cohérent avec le reste du jeu, votre niveau devra :
 - être jouable en webGL et sur smartphone
@@ -64,12 +64,12 @@ Afin de rester cohérent avec le reste du jeu, votre niveau devra :
 
 Un petit tutoriel en introduction est aussi plus que bienvenue ! ;-)
 
-Pour plus d'informations sur les détails juridiques du concours, vous pouvez consulter [le règlement complet ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/reglement-du-concours.md).
+Pour plus d'informations sur les détails juridiques du concours, vous pouvez consulter [le règlement complet ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/Règlement-de-concours.pdf).
 
+<a name="les-prix"></a>
 <p align="center">
     <img src="images/titre3.png">
 </p>
-<a name="les-prix"></a>
 
 <p align="center">
     <img src="images/prix.gif">
@@ -82,13 +82,13 @@ Pour plus d'informations sur les détails juridiques du concours, vous pouvez co
 - **Quatrième et cinquième prix** : une console de jeu  E-CONCEPT SEGA MEGA DRIVE d’une valeur indicative de 59,99 €
 - **Du sixième au huitième prix** : une console de jeu E-CONCEPT ATARI FLASHBACK 7 d’une valeur indicative de 54,99 €
 
+<a name="faq"></a>
 <p align="center">
     <img src="images/titre4.png">
 </p>
-<a name="faq"></a>
 
 ### Comment créer mon niveau de Roadbands ?
-Toutes les réponses à vos questions [sont ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/charte-de-co-creation.md) ;-)
+Toutes les réponses à vos questions [sont ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/Tuto.md) ;-)
 
 ### Jusqu'à quelle date puis-je participer ?
 La date limite de soumission de votre niveau est le dimanche 1er octobre 2017 à 23h59.

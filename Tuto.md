@@ -25,7 +25,7 @@ Dans Unity, un niveau s’appelle une scène. Cliquez sur “File” puis “New
 
 Alternativement, vous pouvez aussi utiliser le dossier Template conçu spécialement pour vous faciliter la vie. Vous n’avez qu’à renommer le dossier et la scène, et remplir les dossiers préexistants avec vos scripts, sons et graphismes !
 
-Un exemple de petit projet qui reprend les assets a été créé dans la scène Template, n’hésitez pas à vous en inspirer!
+Un exemple de petit projet qui reprend les assets a été créé dans la scène Template, n’hésitez pas à vous en inspirer !
 
 ![alt text](https://user-images.githubusercontent.com/29977168/29970652-aa911d22-8f25-11e7-9d29-fb75fba3edd3.png "")
 
