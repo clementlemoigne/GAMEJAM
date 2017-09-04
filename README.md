@@ -1,4 +1,6 @@
-![Game Jam Roadbands !](images/titre.png)
+<p align="center">
+    <img src="images/titre.png">
+</p>
 
 hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours plus loin dans l’univers de l’entertainment en proposant un jeu vidéo rétro (mobile et web) autour du road trip ! Dans Road Bands, vous devez aider un groupe de musique à retrouver leurs instruments et affronter leurs némésis. Mais attention, Road Bands n’est pas qu'un simple jeu vidéo, c’est un vrai projet collaboratif. Nous avons créé les 2 premiers niveaux, à vous de créer la suite !
 
@@ -13,8 +15,11 @@ hotelF1, réseau de motels à la française du groupe AccorHotels, va toujours p
 - [Les prix à gagner](#les-prix)
 - [FAQ](#faq)
 
-![Jouer au jeu](images/titre1.png)
-<a name="jouer-au-jeu"></a>
+<p align="center">
+    <a name="jouer-au-jeu">
+        <img src="images/titre1.png">
+    </a>
+</p>
 
 À la sortie d’un festival, le groupe de glam rock Slapp Machine décide de partir en road trip pour composer leur nouvel album. Mais les membres du groupe rival, les Zackhøuz, leur ont volé leurs instruments. Les Slapp Machine vont alors s’embarquer dans une course poursuite endiablée à travers des niveaux déjantés, mêlant runner et niveaux de boss, afin de récupérer leurs précieux instrus.
 
@@ -36,8 +41,11 @@ Les Slapp Machine ont besoin de vous ! Retrouvez les deux premiers niveaux de Ro
     <a target="_blank" href="https://itunes.apple.com/app/id1256521725"><img src="images/iphone.png" alt="iPhone"/></a>
 </p>
 
-![Faire la Game Jam](images/titre2.png)
-<a name="faire-la-game-jam"></a>
+<p align="center">
+    <a name="faire-la-game-jam">
+        <img src="images/titre2.png">
+    </a>
+</p>
 
 <p align="center">
     <img src="images/intro.gif">
@@ -58,7 +66,9 @@ Un petit tutoriel en introduction est aussi plus que bienvenue ! ;-)
 
 Pour plus d'informations sur les détails juridiques du concours, vous pouvez consulter [le règlement complet ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/reglement-du-concours.md).
 
-![Les prix à gagner](images/titre3.png)
+<p align="center">
+    <img src="images/titre3.png">
+</p>
 <a name="les-prix"></a>
 
 <p align="center">
@@ -67,13 +77,16 @@ Pour plus d'informations sur les détails juridiques du concours, vous pouvez co
 
 À la fin de la Game Jam, tous vos niveaux seront testés par un jury qui en sélectionnera 8. Ces niveaux seront ensuite intégrés par nos équipes dans le jeu final, faisant de Road Bands un véritable jeu collaboratif ! Le jury devra décerner un prix à chacun des niveaux sélectionnés suivant son ordre de préférence.
 
-- **Premier prix** : une mini borne d’arcade d’une valeur indicative de 1500 € TTC
-- **Deuxième et troisième prix** : une console de jeu d’une valeur indicative de 329,99€
-- **Quatrième et cinquième prix** : une console de jeu d’une valeur indicative de 59,99 €
-- **Du sixième au huitième prix** : une console de jeu d’une valeur indicative de 54,99 €
+- **Premier prix** : une mini borne d’arcade Neo Legend d’une valeur indicative de 1500 € TTC
+- **Deuxième et troisième prix** : une console de jeu Nintendo Switch d’une valeur indicative de 329,99€
+- **Quatrième et cinquième prix** : une console de jeu  E-CONCEPT SEGA MEGA DRIVE d’une valeur indicative de 59,99 €
+- **Du sixième au huitième prix** : une console de jeu E-CONCEPT ATARI FLASHBACK 7 d’une valeur indicative de 54,99 €
 
-![Foire aux questions](images/titre4.png)
+<p align="center">
+    <img src="images/titre4.png">
+</p>
 <a name="faq"></a>
+
 ### Comment créer mon niveau de Roadbands ?
 Toutes les réponses à vos questions [sont ici](https://github.com/ROADBANDS/GAMEJAM/blob/master/charte-de-co-creation.md) ;-)
 
