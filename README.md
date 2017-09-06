@@ -71,16 +71,12 @@ Pour plus d'informations sur les détails juridiques du concours, vous pouvez co
     <img src="images/titre3.png">
 </p>
 
-<p align="center">
-    <img src="images/prix.gif">
-</p>
-
 Le jury devra décerner un prix au gagnant.
 
 - **Premier prix** : une mini borne d’arcade Neo Legend d’une valeur indicative de 1500 € TTC
-- **Deuxième et troisième prix** : une console de jeu Nintendo Switch d’une valeur indicative de 329,99€
-- **Quatrième et cinquième prix** : une console de jeu  E-CONCEPT SEGA MEGA DRIVE d’une valeur indicative de 59,99 €
-- **Du sixième au huitième prix** : une console de jeu E-CONCEPT ATARI FLASHBACK 7 d’une valeur indicative de 54,99 €
+- **Deuxième et troisième prix** : une console de jeu d’une valeur indicative de 329,99€
+- **Quatrième et cinquième prix** : une console de jeu d’une valeur indicative de 59,99 €
+- **Du sixième au huitième prix** : une console de jeu d’une valeur indicative de 54,99 €
 
 <a name="faq"></a>
 <p align="center">
