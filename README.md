@@ -55,7 +55,7 @@ Roadbands est un jeu collaboratif. Cela signifie que VOUS allez pouvoir créer l
 
 Pour commencer, nous vous conseillons fortement de lire [la page d'aide à la prise en main du projet Unity](https://github.com/ROADBANDS/GAMEJAM/blob/master/Tuto.md) où vous trouverez toutes les réponses à vos questions techniques.
 
-Le niveau que vous allez créer devra être soumis avant le **dimanche 1er octobre 23h59** sur cette page : http://www.roadbands/gamejam/formulaire.fr (disponible le 08 septembre)
+Le niveau que vous allez créer devra être soumis avant le **dimanche 1er octobre 23h59** sur cette page : http://www.roadbands.fr/gamejam/formulaire (disponible le 08 septembre)
 
 Afin de rester cohérent avec le reste du jeu, votre niveau devra :
 - être jouable en webGL et sur smartphone
@@ -97,7 +97,7 @@ Il n'y a pas de taille limite aux équipes, tous vos fans peuvent vous accompagn
 
 ### À qui dois-je envoyer mon niveau une fois celui-ci fini ?
 Une fois terminé, faites une archive .zip de votre projet Unity et postez-la ici :
-http://www.roadbands/gamejam/formulaire.fr (disponible le 08 septembre). 
+http://www.roadbands.fr/gamejam/formulaire (disponible le 08 septembre). 
 
 ### Puis-je créer plusieurs niveaux ?
 Oui, mais nous vous conseillons de privilégier la qualité à la quantité :-)
